@@ -213,7 +213,8 @@ TODO
 ### client socket usage ( async )
 
 TODO
-
+### getting same sequence in every run even after using random
+use random.seed(time.time()) before using random functions (import time at beginning)
 
 
 [contribute to this page](https://github.com/pygame-web/pygame-web.github.io/edit/main/wiki/pygbag-code/README.md)
